@@ -1,4 +1,4 @@
-\----------------------------------------
+----------------------------------------
 Instrukcja uruchamiania projektow
          na zajeciach  
 PODSTAWY PROGRAMOWANIA (i pokrewnych)
